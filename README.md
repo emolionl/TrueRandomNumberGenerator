@@ -3,7 +3,8 @@
 A True Random Number Generator (TRNG) exploits physical processes to produce numbers that are completely unpredictable.
 
 There are many ways to get TRUE Random Number Generators. This documentation focuses on how to utilize chip ATECC608B to achieve this.
-
+## I use platform io
+you can watch installation of platfrom io on next video: https://youtu.be/5edPOlQQKmo?si=6JyaDQRtyCgFJ0Y5
 ## Getting Started
 
 To begin using the ATECC608B chip for generating true random numbers, follow the steps outlined below. These steps include hardware setup, wiring instructions, and software configuration.
