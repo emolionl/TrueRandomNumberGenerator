@@ -1,4 +1,4 @@
-# True Random Number Generator
+# True Random Number Generator with Arduino or ESP32, I use ttgo esp32 with display embedded 
 
 A True Random Number Generator (TRNG) exploits physical processes to produce numbers that are completely unpredictable.
 
