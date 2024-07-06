@@ -5,6 +5,7 @@ A True Random Number Generator (TRNG) exploits physical processes to produce num
 There are many ways to get TRUE Random Number Generators. This documentation focuses on how to utilize chip ATECC608B to achieve this.
 ## Documentation Video
 [![TRNG documentation](https://img.youtube.com/vi/LdNU8qaAjQg/0.jpg)](https://www.youtube.com/watch?v=LdNU8qaAjQg)
+### same link as above
 https://www.youtube.com/watch?v=LdNU8qaAjQg&ab_channel=EmolioDavorRadic
 
 ## I use platform io
