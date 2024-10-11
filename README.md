@@ -1,5 +1,8 @@
 # True Random Number Generator with Arduino or ESP32, I use ttgo esp32 with display embedded 
 
+## UPDATE:
+there is also a mobile app that works toghether with this esp32 and TRNG open source -> https://github.com/emolionl/TrueRandomNumberGeneratorMobile
+
 A True Random Number Generator (TRNG) exploits physical processes to produce numbers that are completely unpredictable.
 
 There are many ways to get TRUE Random Number Generators. This documentation focuses on how to utilize chip ATECC608B to achieve this.
